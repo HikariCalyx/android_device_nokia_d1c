@@ -1,4 +1,4 @@
-# Device Tree Repository for Xiaomi Land (WIP)
+# Device Tree Repository for Nokia 6 (WIP)
 
 ## Spec Sheet
 
